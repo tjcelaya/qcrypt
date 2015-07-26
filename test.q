@@ -1,3 +1,4 @@
+#!/usr/bin/env q
 VERBOSE:.z.x[0]~"-vt"
 
 t:{[name;res;expect]
